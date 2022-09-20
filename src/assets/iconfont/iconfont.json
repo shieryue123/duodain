@@ -1,0 +1,149 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2019042",
+      "name": "菜单栏",
+      "font_class": "caidanlan",
+      "unicode": "e79c",
+      "unicode_decimal": 59292
+    },
+    {
+      "icon_id": "2019043",
+      "name": "工作经验",
+      "font_class": "gongzuojingyan",
+      "unicode": "e79d",
+      "unicode_decimal": 59293
+    },
+    {
+      "icon_id": "2019044",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e79e",
+      "unicode_decimal": 59294
+    },
+    {
+      "icon_id": "2019045",
+      "name": "感兴趣",
+      "font_class": "ganxingqu",
+      "unicode": "e79f",
+      "unicode_decimal": 59295
+    },
+    {
+      "icon_id": "2019046",
+      "name": "公司",
+      "font_class": "gongsi",
+      "unicode": "e7a0",
+      "unicode_decimal": 59296
+    },
+    {
+      "icon_id": "2019047",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e7a1",
+      "unicode_decimal": 59297
+    },
+    {
+      "icon_id": "2019061",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e7a8",
+      "unicode_decimal": 59304
+    },
+    {
+      "icon_id": "2019063",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e7a9",
+      "unicode_decimal": 59305
+    },
+    {
+      "icon_id": "2019064",
+      "name": "添加好友",
+      "font_class": "tianjiahaoyou",
+      "unicode": "e7aa",
+      "unicode_decimal": 59306
+    },
+    {
+      "icon_id": "2019065",
+      "name": "我",
+      "font_class": "wo",
+      "unicode": "e7ab",
+      "unicode_decimal": 59307
+    },
+    {
+      "icon_id": "2019066",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e7ac",
+      "unicode_decimal": 59308
+    },
+    {
+      "icon_id": "2019067",
+      "name": "向上箭头",
+      "font_class": "xiangshangjiantou",
+      "unicode": "e7ad",
+      "unicode_decimal": 59309
+    },
+    {
+      "icon_id": "2019068",
+      "name": "向右箭头",
+      "font_class": "xiangyoujiantou",
+      "unicode": "e7ae",
+      "unicode_decimal": 59310
+    },
+    {
+      "icon_id": "2019073",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e7b1",
+      "unicode_decimal": 59313
+    },
+    {
+      "icon_id": "2019077",
+      "name": "关注",
+      "font_class": "guanzhu",
+      "unicode": "e7b5",
+      "unicode_decimal": 59317
+    },
+    {
+      "icon_id": "2019085",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e7ba",
+      "unicode_decimal": 59322
+    },
+    {
+      "icon_id": "2019087",
+      "name": "已关注",
+      "font_class": "yiguanzhu",
+      "unicode": "e7bc",
+      "unicode_decimal": 59324
+    },
+    {
+      "icon_id": "2019096",
+      "name": "向左箭头",
+      "font_class": "xiangzuojiantou",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "2019098",
+      "name": "向下箭头",
+      "font_class": "xiangxiajiantou",
+      "unicode": "e7c3",
+      "unicode_decimal": 59331
+    },
+    {
+      "icon_id": "2150401",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e7c8",
+      "unicode_decimal": 59336
+    }
+  ]
+}
